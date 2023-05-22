@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">I am a skilled software engineer with experience in developing high-quality web applications in react. I have a strong passion for developing user-friendly and scalable web interfaces using cutting-edge technologies. I have a master's degree in MCA from Nirma University and started my career as a junior software engineer at Narola Infotech, where I have gained valuable experience in React development.<br><br>I am highly skilled in developing web applications using React, Redux, and other front-end technologies. I have experience in building complex and interactive user interfaces, integrating APIs and web services, and developing responsive and mobile-friendly web applications. I am also proficient in using modern front-end libraries.</p>
+<p align="center">I am a skilled software engineer with experience in developing high-quality web applications in react. I have a strong passion for developing user-friendly and scalable web interfaces using cutting-edge technologies. I have a master's degree in MCA from Nirma University and started my career as a junior software engineer, where I have gained valuable experience in React development.<br><br>I am highly skilled in developing web applications using React, Redux, and other front-end technologies. I have experience in building complex and interactive user interfaces, integrating APIs and web services, and developing responsive and mobile-friendly web applications. I am also proficient in using modern front-end libraries.</p>
 
 ###
 
