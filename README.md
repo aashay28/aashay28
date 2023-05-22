@@ -62,6 +62,10 @@
 
 ###
 
+<h2 align="center">Git Stats</h2>
+
+###
+
 <br clear="both">
 
 <div align="center">
