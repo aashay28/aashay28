@@ -49,7 +49,7 @@
   <a href="https://in.linkedin.com/in/aashay28" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/_s.aashay_" target="_blank">
+  <a href="https://www.instagram.com/aashayshahx" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
   </a>
   <a href="https://stackoverflow.com/users/19407300/aashay-shah" target="_blank">
